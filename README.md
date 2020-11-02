@@ -35,3 +35,5 @@ SANITY_DATASET_NAME //from sanity (env.local)
 SANITY_PROJECT_ID
 SANITY_PREVIEW_SECRET
 SANITY_API_TOKEN
+
+issues with project id
