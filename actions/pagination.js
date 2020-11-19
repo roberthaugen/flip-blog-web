@@ -21,8 +21,8 @@ const BlogList = ({blogs, filter }) => {
               subtitle={blog.subtitle}
               date={moment(blog.date).format('LL')}
               link={{
-                href: '/blogs/[slug]',
-                as: `/blogs/${blog.slug}`
+                href: '/events/[slug]',
+                as: `/events/${blog.slug}`
               }}
             />
           </Col>
@@ -35,8 +35,8 @@ const BlogList = ({blogs, filter }) => {
               date={moment(blog.date).format('LL')}
               image={blog.coverImage}
               link={{
-                href: '/blogs/[slug]',
-                as: `/blogs/${blog.slug}`
+                href: '/events/[slug]',
+                as: `/events/${blog.slug}`
               }}
             />
           </Col>
