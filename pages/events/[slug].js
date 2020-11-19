@@ -1,3 +1,4 @@
+// adding events to flip blog
 import PageLayout from 'components/PageLayout';
 import BlogHeader from 'components/BlogHeader';
 import ErrorPage from 'next/error';

@@ -1,3 +1,4 @@
+// add events to flip-blog
 import { useState } from 'react';
 
 import { Row, Button } from 'react-bootstrap';

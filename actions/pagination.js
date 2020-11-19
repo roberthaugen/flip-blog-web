@@ -1,3 +1,4 @@
+// add events to flip-blog
 import { useSWRPages } from 'swr';
 import { useGetBlogs } from 'actions';
 import { Col } from 'react-bootstrap';
